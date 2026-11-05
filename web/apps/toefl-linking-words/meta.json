@@ -1,0 +1,11 @@
+{
+ "name": "toefl-linking-words",
+ "title": "Linking Words Trainer",
+ "exam": "TOEFL",
+ "area": "TOEFL Speaking and Writing",
+ "desc": "Choose the word that joins two ideas correctly: however, therefore, although, whereas and more.",
+ "content": [
+  "linking.json"
+ ],
+ "n": 84
+}
